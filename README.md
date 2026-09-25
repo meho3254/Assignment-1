@@ -57,6 +57,11 @@ includes the messy mid-ratings):
    - Or: `.venv\Scripts\streamlit run app.py`
    Theme in `.streamlit/config.toml`.
 
+### Preview
+Here is a screenshot of the Streamlit dashboard showing the sentiment analysis results:
+
+![Dashboard Screenshot](screenshots/dashboard.png)
+
 ## Reproduce
 ```bash
 # 1. environment
